@@ -29,9 +29,9 @@ For Administrators
 
 - Frontend: HTML5, CSS3, JavaScript (with responsive design)
 - Backend: PHP 8+
-- Database: MySQL / MariaDB
-- Server Environment: Apache (XAMPP / WAMP)
-- Additional Tools: AJAX, JSON, and basic RESTful APIs
+- Database: MySQL 
+- Server Environment: Apache (WAMP)
+
 
 
 
