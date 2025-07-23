@@ -117,8 +117,3 @@ We welcome contributions!
 For inquiries or support:
 Email: tadiwagwena@gmail.com
 Phone: +263 777 36 7773
-
----
-
-Would you like me to **craft a more concise "Executive Summary" section at the top**, tailored for pitching your system to potential clients or investors, m’lord?
-```
